@@ -1,3 +1,1 @@
-DO NOT STAR THIS REPO
-
-IF YOU WANT TO HELP FOLLOW ME INSTEAD.
+# Backup of My Tailwind CSS Templates
